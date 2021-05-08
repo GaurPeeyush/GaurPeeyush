@@ -64,4 +64,4 @@
 
 <!-- can't stop myself from editing🤷... -->
 
-⭐️ From **Peeyush Gaur** ([@GaurPeeyush](https://github.com/GaurPeeyush)
+⭐️ From **Peeyush Gaur** ([@GaurPeeyush](https://github.com/GaurPeeyush))
