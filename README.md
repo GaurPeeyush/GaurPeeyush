@@ -48,34 +48,6 @@
 <hr>
 
 <p align="center">
-<i><b>Languages Currently Learning:</b></i> 
-  <br><br>
-  <img align="center" src="languages/c.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/python.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/html-5.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/mysql.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/css.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/javascript.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/cpp.svg" width="30px" />&nbsp;
-</p>
-
-<hr>
-
-<p align="center">
-<i><b>Tools known:</b></i> 
-  <br><br>
-  <img align="center" src="tools/sublime.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/vs-code.png" width="30px" />&nbsp;
-  <img align="center" src="tools/word.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/excel.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/powerpoint.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/cmd.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/git.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/github.svg" width="30px" />&nbsp;
-</p>
-
-<hr>
-<p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=GaurPeeyush&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GaurPeeyush&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
