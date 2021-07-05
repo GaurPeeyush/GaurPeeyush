@@ -24,9 +24,6 @@
 </a>
 </p>
 </h1>
-
-
-
 <p align="center">
   <em>
     This is ME, <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, AI & Ml Fresher at<a href="https://www.dsce.edu.in/"> <b>Dayananda Sagar College of Engineering</b>, Bangalore</a>. <br>
