@@ -6,7 +6,7 @@
   <a href="mailto:MrPeeyushGaur@gmail.com">
   <img align="center" alt="Peeyush @Mail" width="22px" src="handles/gmail.svg" />
 </a>
-<a href="https://twitter.com/MrPeeyushGaur">
+<a href="https://twitter.com/iPeeyushGaur">
   <img align="center" alt="Peeyush @Twitter" width="22px" src="handles/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/peeyush_gaur">
