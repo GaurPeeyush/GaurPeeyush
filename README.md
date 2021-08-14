@@ -9,7 +9,7 @@
 <a href="https://twitter.com/iPeeyushGaur">
   <img align="center" alt="Peeyush @Twitter" width="22px" src="handles/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/peeyush_gaur">
+<a href="https://www.instagram.com/ipeeyushgaur">
   <img align="center" alt="Peeyush @Instagram" width="22px" src="handles/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/PeeyushGaur">
