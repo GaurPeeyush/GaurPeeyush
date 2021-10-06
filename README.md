@@ -39,7 +39,7 @@
  <br />
 
 &nbsp;***Talking about Personal Stuffs:***<br/>
-🎓 AI&ML Fresher at DSCE, Bangalore<br />
+🎓 AI&ML Sophomore at DSCE, Bangalore<br />
 👁️ Strong in Graphic Design<br />
 🎤 Student Ambassador, proficient in leadership qualities<br />
 🎯 Open source enthusiast and budding web developer<br />
