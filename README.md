@@ -34,8 +34,9 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
+  <!--
   <br>
-  <i>I believe in <b><i>POWER OF COMMUNITY</i></b>
+  <i>I believe in <b><i>POWER OF COMMUNITY</i></b> -->
 </p>
  <br />
 
