@@ -25,13 +25,19 @@
 </a>
 </p>
 </h1>
-<p align="center">
   <em>
-    This is ME, <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, AI & Ml Sophomore at<a href="https://www.dsce.edu.in/"> <b>Dayananda Sagar College of Engineering</b>, Bangalore</a>. <br>
-    A budding <b>Web Developer</b> and a <b>Competitive Programming Enthusiast</b> <br>who is <b>passionate</b>
-    about innovations and developments related to <b>Artificial Intelligence</b> and wants a <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel</b>
+  <p align="center">
+  <b> Developing more than just code!</b><br>
+</p>
+<p align="center">
+Passionate about startups, and entrepreneurship<br>
+Learning financial insights and business intelligence<br>
+Excited about the future of AI and its applications in different businesses<br>
+Empowering communities through open-source and collaboration<br>
+</p>
+I’m <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, a sophomore pursuing bachelor's of engineering in Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering, Bangalore<br>
+
+<p align="center">Learning, evolving, developing, sharing. Basically, figuring it out!<br></p>
   </em> 
   <br>
   <!--
@@ -39,16 +45,14 @@
   <i>I believe in <b><i>POWER OF COMMUNITY</i></b> -->
 </p>
  <br />
-
-&nbsp;***Talking about Personal Stuffs:***<br/>
+<!--&nbsp;***Talking about Personal Stuffs:***<br/>
 🎓 AI&ML Sophomore at DSCE, Bangalore<br />
 👁️ Strong in Graphic Design<br />
 🎤 Student Ambassador, proficient in leadership qualities<br />
 🎯 Open source enthusiast and budding web developer<br />
 👨‍💻 Passionate about Artificial Intelligence and Machine Learning<br />
-
+--!>
 <hr>
-
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
@@ -59,10 +63,7 @@
   <img align="center" src="languages/css.svg" width="30px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="30px" />&nbsp;
   <img align="center" src="languages/cpp.svg" width="30px" />&nbsp;
-</p>
-
 <hr>
-
 <p align="center">
 <i><b>Tools known:</b></i> 
   <br><br>
