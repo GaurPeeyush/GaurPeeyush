@@ -36,8 +36,8 @@ Excited about the future of AI and its applications in different businesses<br>
 Empowering communities through open-source and collaboration<br>
 </p>
 I’m <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, a sophomore pursuing bachelor's of engineering in Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering, Bangalore<br>
-
-<p align="center">Learning, evolving, developing, sharing. Basically, figuring it out!<br></p>
+<br>
+<p align="center"><b>Learning, evolving, developing, sharing. Basically, figuring it out!</b><br></p>
   </em> 
   <br>
   <!--
