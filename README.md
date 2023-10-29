@@ -30,10 +30,13 @@
   <b> Developing more than just code!</b><br>
 </p>
 <p align="center">
-Passionate about startups, and entrepreneurship<br>
-Learning financial insights and business intelligence<br>
-Excited about the future of AI and its applications in different businesses<br>
-Empowering communities through open-source and collaboration<br>
+Implementing Data Science fundamentals with a focus on MLOps and production deployment<br>
+Dedicated to building and shipping innovative AI SaaS tools, solving practical problems<br>
+Excited about the transformative potential of AI in various industries<br>
+
+I'm Peeyush Gaur, a final year student with a proven track record in developing and delivering AI-powered Software as a Service (SaaS) solutions while working closely with startups.
+
+Continuously learning, growing, and creating. I'm actively seeking opportunities in fresher roles!!<br>
 </p>
 I’m <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, a pre-final year student pursuing bachelor's of engineering in Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering, Bangalore<br>
 <br>
