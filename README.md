@@ -34,7 +34,8 @@ Implementing Data Science fundamentals with a focus on MLOps and production depl
 Dedicated to building and shipping innovative AI SaaS tools, solving practical problems<br>
 Excited about the transformative potential of AI in various industries<br>
 </p>
-I’m <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, a final year student with a proven track record in developing and delivering AI-powered Software as a Service (SaaS) solutions while working closely with startups.<br><br>
+<!--     <a href="https://www.linkedin.com/in/peeyushgaur/"> <a href="https://gaurpeeyush.github.io/PeeyushGaur/"> -->
+I’m <a href="https://www.linkedin.com/in/peeyushgaur/"><b>Peeyush Gaur</b></a>, a final year student with a proven track record in developing and delivering AI-powered Software as a Service (SaaS) solutions while working closely with startups.<br><br>
 <br>
 <p align="center"><b>Continuously learning, growing, and creating. I'm actively seeking opportunities in fresher roles!!</b><br></p>
   </em> 
