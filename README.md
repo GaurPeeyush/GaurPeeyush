@@ -1,6 +1,5 @@
 <img width="1584" height="396" alt="been in ai before it was cool, i promise )" src="https://github.com/user-attachments/assets/36209c87-d9df-4621-9bb6-29881485a51a" />
-<!--<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>-->
-<br><hr>
+<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/peeyushgaur/"> 
