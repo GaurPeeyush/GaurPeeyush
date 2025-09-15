@@ -1,28 +1,5 @@
 <img width="1584" height="396" alt="been in ai before it was cool, i promise )" src="https://github.com/user-attachments/assets/36209c87-d9df-4621-9bb6-29881485a51a" />
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/peeyushgaur/"> 
-    <img align="center" alt="Peeyush @LinkedIN" width="22px" src="handles/linkedin.svg" />
-  </a>
-  <a href="mailto:MrPeeyushGaur@gmail.com">
-    <img align="center" alt="Peeyush @Mail" width="22px" src="handles/gmail.svg" />
-  </a>
-  <a href="https://twitter.com/iPeeyushGaur">
-    <img align="center" alt="Peeyush @Twitter" width="22px" src="handles/twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/peeyush_gaur">
-    <img align="center" alt="Peeyush @Instagram" width="22px" src="handles/instagram.svg" />
-  </a>
-  <a href="https://github.com/GaurPeeyush">
-    <img align="center" alt="Peeyush @GitHub" width="22px" src="tools/github.svg" />
-  </a>
-  <a href="https://www.kaggle.com/peeyushgaur">
-    <img align="center" alt="Peeyush @Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-  </a>
-</p>
-
-<hr>
 
 <em>
 <p align="center">
@@ -30,7 +7,7 @@
 </p>
 
 <p align="center">
-I’m an <b>AI & ML engineer</b> with 2+ years of experience in designing and deploying production-ready ML systems.  
+I’m <a href="https://www.linkedin.com/in/peeyushgaur/"><b>Peeyush</b></a>, an <b>AI & ML engineer</b> with 2+ years of experience in designing and deploying production-ready ML systems.
 From bootstrapping a startup in college to working with clients like <b>Amazon, Rappi, and Zomato</b>, I’ve built solutions that drive measurable business impact.  
 </p>
 
