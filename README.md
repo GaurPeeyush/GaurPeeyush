@@ -1,6 +1,8 @@
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<img width="1584" height="396" alt="been in ai before it was cool, i promise )" src="https://github.com/user-attachments/assets/36209c87-d9df-4621-9bb6-29881485a51a" />
+<!--<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>-->
+<br><hr>
+<p align="center">
 
-<p align="center"> 
   <a href="https://www.linkedin.com/in/peeyushgaur/"> 
     <img align="center" alt="Peeyush @LinkedIN" width="22px" src="handles/linkedin.svg" />
   </a>
@@ -71,7 +73,7 @@ Machine Learning • Generative AI • Applied AI • MLOps • Computer Vision 
 <hr>
 
 <p align="center">
-  <i><b>GitHub Stats:octocat::</b></i><br><br>
+  <i><b>GitHub Stats:</b></i><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaurPeeyush&theme=radical&hide_border=true" alt="GaurPeeyush" /><br><br> 
   <img src="https://github-readme-stats.vercel.app/api?username=GaurPeeyush&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurPeeyush&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
