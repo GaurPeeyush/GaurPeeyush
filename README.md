@@ -39,12 +39,10 @@ I’m <a href="https://www.linkedin.com/in/peeyushgaur/"><b>Peeyush Gaur</b></a>
 <br>
 <p align="center"><b>Continuously learning, growing, and creating. I'm actively seeking opportunities in fresher roles!!</b><br></p>
   </em> 
-  <br>
   <!--
   <br>
   <i>I believe in <b><i>POWER OF COMMUNITY</i></b> -->
 </p>
- <br />
 <!--&nbsp;***Talking about Personal Stuffs:***<br/>
 🎓 AI&ML Sophomore at DSCE, Bangalore<br />
 👁️ Strong in Graphic Design<br />
@@ -91,14 +89,6 @@ I’m <a href="https://www.linkedin.com/in/peeyushgaur/"><b>Peeyush Gaur</b></a>
 
 <hr>
 
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br><br>
-  <img src="https://profile-counter.glitch.me/GaurPeeyush/count.svg" /><br>
-  <img src="https://media.giphy.com/media/LYd5EztTPaYQUY3pno/giphy.gif" height="500">
  <!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br> -->
   
 </p>
-
-
-
-⭐️ From **Peeyush Gaur** ([@GaurPeeyush](https://github.com/GaurPeeyush))
