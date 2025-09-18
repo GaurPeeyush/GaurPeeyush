@@ -24,7 +24,7 @@ My expertise spans <b>data pipelines, agentic frameworks, RAG systems, and MLOps
 <i><b>Experience Highlights:</b></i>
 </p>
 
-- **Rocketium** → Designed and deployed <b>Bifrost Data Pipeline</b>, contributing $500K+ ARR. Built brand safety algorithms for Amazon & Rappi, enabling onboarding of Axis Bank.  
+- **Rocketium** → Designed and deployed <b>Bifrost Data Pipeline</b>, contributing to the Creative Analytics at Rocketium. Built brand safety algorithms for Amazon & Rappi, enabling onboarding of Axis Bank.  
 - **Harman DTS (Samsung)** → Developed <b>ForecastGPT</b> (87.8% forecast accuracy, featured in Business World & Economic Times). Built anomaly detection for Zomato logs and a Generative AI CMS.  
 - **NOLO Technologies (Founding Member)** → Bootstrapped persona bots for 17 celebrities, engaging 41K+ users and scaling revenue by $80K+.  
 
